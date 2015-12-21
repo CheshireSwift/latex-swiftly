@@ -1,0 +1,29 @@
+{
+  "name": "latex-swiftly",
+  "version": "1.0.0",
+  "description": "Command-line wrapper for latex-to-unicode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CheshireSwift/latex-swiftly.git"
+  },
+  "keywords": [
+    "latex",
+    "unicode",
+    "github",
+    "readme"
+  ],
+  "author": "CheshireSwift",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CheshireSwift/latex-swiftly/issues"
+  },
+  "homepage": "https://github.com/CheshireSwift/latex-swiftly#readme",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "latex-to-unicode": "^0.1.0"
+  }
+}
