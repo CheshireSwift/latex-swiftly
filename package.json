@@ -27,7 +27,7 @@
     "latex-to-unicode": "^0.1.0"
   },
   "devDependencies": {
-    "jasmine": "^2.4.1",
-    "watch": "^0.17.1"
+    "jasmine": "^3.2.0",
+    "watch": "^1.0.2"
   }
 }
